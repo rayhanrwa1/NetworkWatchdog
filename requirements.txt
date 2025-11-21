@@ -1,0 +1,14 @@
+# CORE
+psutil
+requests
+
+# UI
+colorama
+pyfiglet
+
+# Windows notifications
+win10toast; platform_system == "Windows"
+winotify; platform_system == "Windows"
+
+# Optional future upgrades
+rich

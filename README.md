@@ -184,7 +184,8 @@ Additional docs available in `/docs/`:
 
 ## 📝 License
 
-This project is free to use and modify.
+This project is licensed under the **MIT License**.  
+See the full license here: [LICENSE](./LICENSE)
 
 ---
 

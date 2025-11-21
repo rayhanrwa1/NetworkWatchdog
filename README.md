@@ -173,12 +173,12 @@ Script available for Linux/macOS:
 
 ## 📚 Documentation
 
-Additional docs available in `/docs/`:
-
-* **docs/get_started.md** – Quick start
-* **docs/installation.md** – Full installation steps
-* **docs/modes.md** – Mode explanations
-* **docs/architecture.md** – Code architecture and flow
+| File | Description |
+|------|-------------|
+| [`docs/get_started.md`](./docs/get_started.md) | Quick start guide |
+| [`docs/installation.md`](./docs/installation.md) | Installation & environment setup |
+| [`docs/modes.md`](./docs/modes.md) | Watchdog mode explanations |
+| [`docs/architecture.md`](./docs/architecture.md) | Full system architecture & flowchart |
 
 ---
 
